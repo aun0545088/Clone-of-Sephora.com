@@ -3,10 +3,13 @@
 This was our project for Unit-2 Construct week at Masai Shcool.
 Our mian objective was to complete all main functionality of this e-commerce website , such as sing up to till to the byuing of a product.
 We have completed this project in 5 days.
-
-- [Click here](https://peaceful-dodol-946a2a.netlify.app/index.html) to see preview of our project.
-
 Sephora.com is leading E-Commerce website for all type of cosmetic products such as makeup, skin care, hair, fragrance's and tools and brush.
+
+## Deployed Link
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+https://peaceful-dodol-946a2a.netlify.app/index.html
 
 ## Credits
 
@@ -17,10 +20,16 @@ Sephora.com is leading E-Commerce website for all type of cosmetic products such
 
 ## Tech Stack
 
-- HTML 5
-- CSS 3
-- Javascript
-- Github
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Features
 
@@ -62,15 +71,21 @@ Sephora.com is leading E-Commerce website for all type of cosmetic products such
 
 4. We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
-## Team
+## Contributors
 
-- Kavita Patel
-- Gautam Gohil
-- Sachin Ramesh Ingle
-- Papannagari Dathu Ram Reddy
-- Sachin Vishwanath Kudande
-- Aun Mohammad
+[Aun Mohammad](https://github.com/aun0545088)
+
+[Gautam Gohil](https://github.com/gautam6023)
+
+[Kavita Patel](https://github.com/patelkavita)
+
+[Papannagari Dathu Ram Reddy](https://github.com/Dathuram16)
+
+[Sachin Ingale](https://github.com/sachiningale1998)
+
+[Sachin Vishwanath Kudande](https://github.com/sachinK)
 
 ## Authors
 
+- [@Aun Mohammad](https://github.com/aun0545088)
 - [@Gautam Gohil](https://github.com/gautam6023)
